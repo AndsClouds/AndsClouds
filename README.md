@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndsClouds
-- 👀 I’m interested in programming in C++
+- 👀 I’m interested in programming
 - 🌱 I’m currently a university student
-- 📫 You can reach me on Discord And#4922
-- I'd like to learn Rust, but i'm not very convinced, if someone can lead me, i'd appreciate it ☁☁☁
+☁☁☁
